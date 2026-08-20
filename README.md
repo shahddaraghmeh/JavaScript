@@ -1,12 +1,6 @@
 # JavaScript First Steps — Course Notes
 
-Course: **JavaScript First Steps** (Master.dev / Frontend Masters — Anjana Vakil)
-Notes follow the course's lesson order. Sections marked with screenshots come from the
-actual lecture; the rest are simple original notes + examples covering the same topics.
 
----
-
-## Section 0 — Getting Started
 
 ### Introduction
 A short welcome to the course: what JavaScript is used for, what you'll build
